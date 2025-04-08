@@ -1,2 +1,2 @@
 # DataAnalysisFiles
-Instruction File on how to use thus repsitory
+Instruction File on how to use this repsitory
